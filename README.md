@@ -7,6 +7,8 @@ When a new postman joins a new post office, it will take him a lot of time to un
 *   There are several other use cases for this particular application. The service it provides allows any emergency services like the ambulance, health care staffs and firefighters to arrive at the mentioned address without wasting time to find out the shortest path to the location.
 
 ## **DATA FLOW DIAGRAM:**
+The data flow diagram is as follows,
+![data flow diagram](https://github.com/nikhilkp6/2022_IBM_Code_Challenge_Smartpost/blob/master/dfd%200.png)
 
 
 ## **TECHNICAL COMPONENTS USED**
