@@ -12,7 +12,7 @@ The data flow diagram is as follows.<br/>The following is the data flow diagram 
 ![data flow diagram](https://github.com/nikhilkp6/2022_IBM_Code_Challenge_Smartpost/blob/master/dfd%200.png)
 
 The following is the data flow diagram level 1:
-![data flow diagram](
+![data flow diagram](https://github.com/nikhilkp6/2022_IBM_Code_Challenge_Smartpost/blob/master/dfd%201.png)
 ## **TECHNICAL COMPONENTS USED**
  **FRONT END:**
 *   HTML
