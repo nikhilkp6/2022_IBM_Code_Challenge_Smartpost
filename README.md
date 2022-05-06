@@ -9,7 +9,7 @@ When a new postman joins a new post office, it will take him a lot of time to un
 ## **DATA FLOW DIAGRAM:**
 
 
-##**TECHNICAL COMPONENTS USED**
+## **TECHNICAL COMPONENTS USED**
 FRONT END:
      - HTML
      -CSS
