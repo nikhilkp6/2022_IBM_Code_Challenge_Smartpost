@@ -35,5 +35,9 @@ The following is the data flow diagram level 1:
 
 ![sign up](https://github.com/nikhilkp6/2022_IBM_Code_Challenge_Smartpost/blob/master/sign%20up.jpeg)
 ![login](https://github.com/nikhilkp6/2022_IBM_Code_Challenge_Smartpost/blob/master/Login.jpeg)
+![Registration](https://github.com/nikhilkp6/2022_IBM_Code_Challenge_Smartpost/blob/master/Registration.jpeg)
+![Dashboard](https://github.com/nikhilkp6/2022_IBM_Code_Challenge_Smartpost/blob/master/Dash%20board.jpeg)
+![Search](https://github.com/nikhilkp6/2022_IBM_Code_Challenge_Smartpost/blob/master/search%20user.jpeg)
+![time](https://github.com/nikhilkp6/2022_IBM_Code_Challenge_Smartpost/blob/master/time%20slot.jpeg)
 
 
