@@ -10,7 +10,11 @@ When a new postman joins a new post office, it will take him a lot of time to un
 
 
 ## **TECHNICAL COMPONENTS USED**
-FRONT END:
-     - HTML
-     -CSS
-     -JAVASCRIPT
+ **FRONT END:**
+*   HTML
+*   CSS
+*   JAVASCRIPT
+
+**BACKEND**
+* PYTHON
+
