@@ -7,5 +7,10 @@ When a new postman joins a new post office, it will take him a lot of time to un
 *   There are several other use cases for this particular application. The service it provides allows any emergency services like the ambulance, health care staffs and firefighters to arrive at the mentioned address without wasting time to find out the shortest path to the location.
 
 ## **DATA FLOW DIAGRAM:**
-![Data flow diagram0](dfd 0.png?raw=true)
 
+
+##**TECHNICAL COMPONENTS USED**
+FRONT END:
+     - HTML
+     -CSS
+     -JAVASCRIPT
