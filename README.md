@@ -26,9 +26,10 @@ The following is the data flow diagram level 1:
 * SQLLITE
 ## **CONTRIBUTORS**
 1. Amal Siby  - Front end<br/>
-2. Nikhil K P - Back end <br/>
-3. Sarath SR  - Front end<br/>
-4. Teena Sebastian - Back end
+2. Aparna A - Front end<br/>
+3. Nikhil K P - Back end <br/>
+4. Sarath SR  - Front end<br/>
+5. Teena Sebastian - Back end
 
 ## **SCREENSHOTS**
 
