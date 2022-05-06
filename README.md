@@ -18,7 +18,15 @@ The following is the data flow diagram level 1:
 *   HTML
 *   CSS
 *   JAVASCRIPT
+*   REACT
 
 **BACKEND:**
-* PYTHON
+* DJANGO
+**DATABASE**
+* SQLLITE
+## **CONTRIBUTORS**
+1.Amal Siby  - Front end<br/>
+2. Sarath SR  - Front end<br/>
+3. Nikhil K P - Back end <br/>
+4. Teena Sebastian - Back end
 
