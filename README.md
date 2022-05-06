@@ -8,7 +8,7 @@ When a new postman joins a new post office, it will take him a lot of time to un
 
 ## **DATA FLOW DIAGRAM:**
 The data flow diagram is as follows,
-![data flow diagram](https://github.com/nikhilkp6/2022_IBM_Code_Challenge_Smartpost/blob/master/dfd%200.png | width=50)
+![data flow diagram](https://github.com/nikhilkp6/2022_IBM_Code_Challenge_Smartpost/blob/master/dfd%200.png | width="50")
 
 
 ## **TECHNICAL COMPONENTS USED**
